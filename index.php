@@ -40,7 +40,7 @@
 <section id="category">
     <div class="container-fluid">
         <div class="text-center">
-            <h2 class="category__headline">Категории</h2>  
+            <h2 class="category__headline">Категории/</h2>  
         </div>
         
         <!-- category-carousel -->
