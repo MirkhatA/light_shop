@@ -6,13 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AstanaSvet</title>
 
-    <!-- glide css connection -->
-    <link rel="stylesheet" href="style/glide.core.min.css">
-    <link rel="stylesheet" href="style/glide.theme.min.css">
-
-    <!-- Required Core Stylesheet -->
-    <link rel="stylesheet" href="node_modules/@glidejs/glide/dist/css/glide.core.min.css">
-
     <!-- css connection -->
     <link rel="stylesheet" href="style/style.css">
 

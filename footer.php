@@ -1,11 +1,3 @@
-    <!-- the cdn of glidejs -->
-    <script src="https://cdn.jsdelivr.net/npm/@glidejs/glide"></script>
-
-    <!-- Simply reference a minified version of the script. -->
-    <script>
-        new Glide('.glide').mount()
-    </script>
-
     <!-- script.js connection -->
     <script src="script/script.js"></script>
     
