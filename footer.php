@@ -1,3 +1,20 @@
+    <script src="https://cdn.jsdelivr.net/npm/@glidejs/glide"></script>
+
+    <script>
+        const config = {
+            type: 'carousel',
+            perView: 6,
+            autoplay: 2000,
+            hoverpause: true,
+            breakpoints: {
+                600: {
+                perView: 1
+                }
+            }
+        }
+        new Glide('.glide', config).mount()
+    </script>
+    
     <!-- script.js connection -->
     <script src="script/script.js"></script>
     
