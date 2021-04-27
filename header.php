@@ -31,6 +31,8 @@
                     <li class="nav__item"><a href="#">Корзина</a></li>
                     <li class="nav__item"><a href="#">Услуги</a></li>
                     <li class="nav__item"><a href="#">Контакты</a></li>
+                    <li class="nav__item"><a href="#">Авторизация</a></li>
+                    <li class="nav__item"><a href="#">Регистрация</a></li>
                 </ul>
             </nav>
         </div>    
